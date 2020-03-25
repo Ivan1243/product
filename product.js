@@ -15,4 +15,4 @@ class Product {
     }
 }
 products = [new Product("apples", 10), new Product("pears", 12)];
-console.log(Product(1));
+console.log(products[1]);
